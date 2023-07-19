@@ -1,0 +1,105 @@
+@media screen and (max-aspect-ratio:3/2) {
+
+    #formContainer {
+        width: 60%!important;
+    }
+}
+@media screen and (max-aspect-ratio:2/3) {
+
+    #formContainer {
+        width: 80% !important;
+    }
+    form p label, form p input{
+        flex-basis:100%;
+    }
+}
+
+#formContainer {
+    height: fit-content;
+    width: fit-content;
+    margin: auto;
+    width: 40%;
+    /* max-width: 80%; */
+}
+
+form {
+    background-color: #a87231;
+    display: flex;
+    align-items: stretch;
+    justify-content: space-around;
+    gap: 1em;
+    flex-wrap: wrap;
+    flex-direction: column;
+    font-size: 1.5em;
+
+    overflow: auto;
+    width: 100%;
+    height: fit-content;
+    margin: 1em auto;
+    padding: 1em;
+    box-sizing: border-box;
+}
+
+form p {
+    margin: 0.5em;
+    display: flex;
+    flex-wrap: wrap;
+    white-space: normal;
+    width: 90%;
+    align-items: center;
+    justify-content: space-between;
+    gap: 5%;
+    row-gap:10%;
+}
+#passwordWarning{
+    font-size:0.75em;
+    flex-basis:100%;
+    
+    margin-top:5%;
+
+    text-decoration:underline;
+}
+
+form label {
+    flex: 1;
+    font-weight: bold;
+    min-width:30%;
+}
+
+form input {
+    flex: 2;
+    vertical-align: middle;
+    font-size: 1em;
+    height: 1.5em;
+}
+
+form button {
+    width: 45%;
+    font-size: 1.25em;
+    font-weight:bold;
+    white-space:nowrap;
+    overflow:hidden;
+}
+form label[for="private"]{
+    flex:1;
+    flex-basis:80%;
+    white-space:nowrap;
+    text-align:right;
+}
+#private{
+    flex:1;
+    justify-self:baseline;
+
+    font-size:0.75em;
+}
+form p:has(#private){
+    justify-content:space-around;
+    gap:0%;
+
+    flex-wrap:nowrap;
+    font-size:0.75em;
+}
+form a{
+    color:white;
+    
+}

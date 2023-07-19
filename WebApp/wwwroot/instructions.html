@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <title>NuttyWarriors</title>
+        <link href="css/style.css" rel="stylesheet"/>
+        <link href="css/instructions.css" rel="stylesheet"/>
+        <script src="js/loadElements.js" defer fetchpriority="high"></script>
+        <script src="js/loadinstructions.js" async fetchpriority="high"></script>
+    </head>
+    <body>
+       
+       
+       <div id="container">
+            <div id="mainContent">
+                <h1 id="mainTitle">How to play</h1>
+                <div id="instructionsContainer">
+                    <div id="infoWrapper">
+                        <div id="sideMenu">
+                            <a href="#introduction">Introduction</a>
+                            <a href="#movement">Movement</a>
+                            <a href="#combat">Combat</a>
+                            <a href="#gamestructure">Game structure</a>
+                            <a href="#misc">Miscellaneous</a>
+                        </div>
+
+                        <!--<div class="textArea">-->
+                        <div class="textArea">
+                            <h1 class="blockTitle"> Introduction </h1>
+                            <div class="textBlock block" id="introduction">
+                                <p>
+                                    This page aims to explain the basics of an already basic game. That being said, its existence is mostly attributed to the lack of in-game tutorial.
+                                </p>
+                                <p>
+                                    The game is relatively simple. You through multiple levels fighting enemies of increasing difficulty while also trying to score high on the leaderboard.
+                                    Memebers of the page can choose the playstyle that best suits their skillset. Attempting to achieve the highest possible score
+                                    can prove meaningless if you die, as the reward will be minimal despite the high risk, since the rewards for completion are higher.
+                                </p>
+                            </div>
+                            <h1 class="blockTitle"> Movement </h1>
+                            <div class="textBlock block" id="movement">
+                                <p>
+                                    Players can only move in a T-shaped grid. That means they can only set their position on a section of the grid at a certain time
+                                    and can't be active while moving.
+                                </p>
+                                <p>
+                                    Movement is exclusive to the <span class="keyMarker">WASD</span> keys (and desktop users, sorry).
+                                </p>
+                                <p>
+                                    Once they've pressed either of the keys, players will move to their asigned position automatically and can't move back it until they've reched it.
+                                    They can also initiate a dodge while changing their location by holding down <span class="keyMarker">SHIFT</span> when moving, which will give them brief
+                                    invincibility after a short delay while moving, but once they reach their position the lose said invincibility and hav to recover for a moment before
+                                    they can perform any action, which leaves them vulnerable.
+                                </p>
+                            </div>
+                            <h1 class="blockTitle"> Combat </h1>
+                            <div class="textBlock block" id="combat">
+                                <p>
+                                    Players will face a single enemy on every level. It's positioned just over the center so it can attack (and can be attacked) the player
+                                    on the top lane. However, enemies can also block the player if he remains down at the bottom sector of the playable grid, in which case
+                                    the player will no longer be able to move on the grid during the current encounter and can only jump to avoid enemy attacks with <span class="keyMarker">W</span>
+                                    (he can still dodge though).
+                                </p>
+                                <p>
+                                    Players can attack their enemies with <span class="keyMarker">SPACE</span>. When to the side, their attacks take a little longer to reach the enemy.
+                                    They can't attack while moving and shortly after being hit. They do, however, also gain brief invincibility after a hit.
+                                </p>
+                                <p>
+                                    There are 2 types of enemies. The first one has a higher chance of being encountered. It can attack the player normally on the top lane and block them on the lower,
+                                    but it also has a chance of nullifying their recovery time after an attack. The second enemy can't do that, but can instead sometimes
+                                    initiate an attack which starts from its head instead of its side and once it reaches the 'ground' it spreads to both sides horizontally.
+                                    It also has higher health and damage.
+                                </p>
+                            </div>
+                            <h1 class="blockTitle"> Game structure </h1>
+                            <div class="textBlock block" id="gamestructure">
+                                <p>
+                                    Each game ends after the player either defeats their last enemy or is defeated and sends them back to the starting screen.
+                                </p>
+                                <p>
+                                    When starting the game, players can choose a class, each of which has different stats (see below). They can't change thier class after starting the game.
+                                </p>
+                                <p>
+                                    Each level has an enemy the player has to defeat, whose type is randomly picked and its stats increase after a set of levels.
+                                    After defeating their enemy, the player can choose a single upgrade from a list (or not and receive extra points).
+                                    Defeating enemies also increases the player's current balance, which they can spend on a shop, three of which generate on a random level
+                                    during the game. Players can purchase every upgrade from the shop as opposed to only on after clearing an encounter. Spending money, however,
+                                    lowers their score.
+                                </p>
+                            </div>
+                            <h1 class="blockTitle"> Miscellanous </h1>
+                            <div class="textBlock block" id="misc">
+                                <p>
+                                    The following starting classes are available:
+                                </p>
+                                <ul>
+                                    <li>Normal: The player starts with a standart amount of health, speed and attack damage.</li>
+                                    <li>Tank: Has much higher health, but decreased speed. That makes attacks much harder to dodge.</li>
+                                    <li>Glass Cannon: Has very high damage, but lower health, so it can both easily demolish or be demolished by starting enemies.</li>
+                                    <li>Thief: Has higher speed and health. Probably overpowered.</li>
+                                </ul>
+                            </div>
+
+                        </div>
+                        <!--</div>-->
+                    </div>
+                </div>
+            </div>
+       </div>
+       
+    </body>
+</html>

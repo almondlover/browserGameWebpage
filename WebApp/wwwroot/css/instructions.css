@@ -1,0 +1,111 @@
+@media screen and (max-width:900px) {
+
+    #infoWrapper div{
+        flex-basis:100%;
+
+    }
+    #sideMenu a {
+        display: inline !important;
+        height: 1em;
+        /*border-radius: 0.5em!important;*/
+        padding:0 0.25em!important;
+        
+    }
+    #sideMenu {
+        background-color: #71410e;
+        width: 100%;
+        margin:0.5em!important;
+        padding:0.5em 0!important;
+        top:5em!important;
+
+        border:none!important;
+        
+    }
+    
+}
+@media screen and (min-width:600px) {
+
+    #sideMenu {
+        top: 2.5em !important;
+    }
+}
+#instructionsContainer{
+    height:fit-content;
+
+    margin: auto;
+    width: 100%;
+    
+    /* max-width: 80%; */
+}
+#infoWrapper{
+    display: flex;
+    align-items:start;
+    /*stretch ne bachka tuka neshto*/
+    justify-content:space-between;
+    flex-wrap:wrap;
+    
+    box-sizing: border-box;
+
+   
+
+}
+#sideMenu {
+    font-size: 1.5em;
+    margin: 0.5em;
+    padding-left: 0.5em;
+    width: 20%;
+    height: fit-content;
+    flex: 1;
+    border-left: solid white;
+    position: sticky;
+    top: 6em;
+    box-shadow: 0 0.5em 0.5em #71410eff;
+}
+#sideMenu a{
+    color: white;
+    text-decoration-line: none;
+    font-size: 1.25em;
+    height: 2em;
+    box-sizing: border-box;
+    font-weight:500;
+    border-radius: 1em;
+    overflow: hidden;
+    white-space:nowrap;
+
+    padding: 0.5em;
+    display: block;
+    width: fit-content;
+}
+#sideMenu a:hover{
+    
+    background-color: #a87231;
+    box-shadow:#00000069 0.1em 0.1em 0.1em;
+
+    width: fit-content;
+    white-space:nowrap;
+
+    
+}
+#sideMenu a:focus{
+    text-decoration-line: underline;
+    background-color: #aa5709;
+}
+#infoWrapper .textArea {
+    flex: 3;
+    min-width: 60%;
+    max-height:none;
+    
+}
+#infoWrapper .textBlock p{
+    margin: 1em 0;
+    line-height:1.5;
+    font-size:1em;
+}
+.keyMarker {
+    font-weight:900;
+    color:white;
+    text-decoration:underline;
+    /*background-color:#46b430;*/
+    margin: 0 0.5em;
+
+}

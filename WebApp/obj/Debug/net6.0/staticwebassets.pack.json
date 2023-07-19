@@ -1,0 +1,181 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\account.html",
+      "PackagePath": "staticwebassets\\account.html"
+    },
+    {
+      "Id": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\css\\canvas.css",
+      "PackagePath": "staticwebassets\\css\\canvas.css"
+    },
+    {
+      "Id": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\css\\form.css",
+      "PackagePath": "staticwebassets\\css\\form.css"
+    },
+    {
+      "Id": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\css\\instructions.css",
+      "PackagePath": "staticwebassets\\css\\instructions.css"
+    },
+    {
+      "Id": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\css\\profile.css",
+      "PackagePath": "staticwebassets\\css\\profile.css"
+    },
+    {
+      "Id": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\css\\scoreboard.css",
+      "PackagePath": "staticwebassets\\css\\scoreboard.css"
+    },
+    {
+      "Id": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\game.html",
+      "PackagePath": "staticwebassets\\game.html"
+    },
+    {
+      "Id": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\imgs\\PeanutButter.jpg",
+      "PackagePath": "staticwebassets\\imgs\\PeanutButter.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\imgs\\assets\\GlassCannonClass.png",
+      "PackagePath": "staticwebassets\\imgs\\assets\\GlassCannonClass.png"
+    },
+    {
+      "Id": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\imgs\\assets\\NormalClass.png",
+      "PackagePath": "staticwebassets\\imgs\\assets\\NormalClass.png"
+    },
+    {
+      "Id": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\imgs\\assets\\TankClass.png",
+      "PackagePath": "staticwebassets\\imgs\\assets\\TankClass.png"
+    },
+    {
+      "Id": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\imgs\\assets\\ThiefClass.png",
+      "PackagePath": "staticwebassets\\imgs\\assets\\ThiefClass.png"
+    },
+    {
+      "Id": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\imgs\\assets\\arenapic.jpg",
+      "PackagePath": "staticwebassets\\imgs\\assets\\arenapic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\imgs\\assets\\background.jpg",
+      "PackagePath": "staticwebassets\\imgs\\assets\\background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\imgs\\assets\\baseEnemy.png",
+      "PackagePath": "staticwebassets\\imgs\\assets\\baseEnemy.png"
+    },
+    {
+      "Id": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\imgs\\assets\\bruteEnemy.png",
+      "PackagePath": "staticwebassets\\imgs\\assets\\bruteEnemy.png"
+    },
+    {
+      "Id": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\imgs\\assets\\cloudAtk.png",
+      "PackagePath": "staticwebassets\\imgs\\assets\\cloudAtk.png"
+    },
+    {
+      "Id": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\imgs\\assets\\normalEnemyAtk.png",
+      "PackagePath": "staticwebassets\\imgs\\assets\\normalEnemyAtk.png"
+    },
+    {
+      "Id": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\imgs\\assets\\swordNormal.png",
+      "PackagePath": "staticwebassets\\imgs\\assets\\swordNormal.png"
+    },
+    {
+      "Id": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\imgs\\bgnuts.webp",
+      "PackagePath": "staticwebassets\\imgs\\bgnuts.webp"
+    },
+    {
+      "Id": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\imgs\\graph.jpg",
+      "PackagePath": "staticwebassets\\imgs\\graph.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\imgs\\hazelnuts.jpg",
+      "PackagePath": "staticwebassets\\imgs\\hazelnuts.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\imgs\\mcraftstevebuff.jpg",
+      "PackagePath": "staticwebassets\\imgs\\mcraftstevebuff.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\imgs\\mogusimg.jpg",
+      "PackagePath": "staticwebassets\\imgs\\mogusimg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\imgs\\mygamescreenshot.png",
+      "PackagePath": "staticwebassets\\imgs\\mygamescreenshot.png"
+    },
+    {
+      "Id": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\imgs\\somegameimage.jpg",
+      "PackagePath": "staticwebassets\\imgs\\somegameimage.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\imgs\\somegames.jpg",
+      "PackagePath": "staticwebassets\\imgs\\somegames.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\instructions.html",
+      "PackagePath": "staticwebassets\\instructions.html"
+    },
+    {
+      "Id": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\js\\gallery.js",
+      "PackagePath": "staticwebassets\\js\\gallery.js"
+    },
+    {
+      "Id": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\js\\game.js",
+      "PackagePath": "staticwebassets\\js\\game.js"
+    },
+    {
+      "Id": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\js\\loadElements.js",
+      "PackagePath": "staticwebassets\\js\\loadElements.js"
+    },
+    {
+      "Id": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\js\\loadinstructions.js",
+      "PackagePath": "staticwebassets\\js\\loadinstructions.js"
+    },
+    {
+      "Id": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\js\\loadprofile.js",
+      "PackagePath": "staticwebassets\\js\\loadprofile.js"
+    },
+    {
+      "Id": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\js\\loadscoreboard.js",
+      "PackagePath": "staticwebassets\\js\\loadscoreboard.js"
+    },
+    {
+      "Id": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\js\\login.js",
+      "PackagePath": "staticwebassets\\js\\login.js"
+    },
+    {
+      "Id": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\js\\slideshow.js",
+      "PackagePath": "staticwebassets\\js\\slideshow.js"
+    },
+    {
+      "Id": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\profile.html",
+      "PackagePath": "staticwebassets\\profile.html"
+    },
+    {
+      "Id": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\scoreboard.html",
+      "PackagePath": "staticwebassets\\scoreboard.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebApp.props",
+      "PackagePath": "build\\WebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApp.props",
+      "PackagePath": "buildMultiTargeting\\WebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebApp.props",
+      "PackagePath": "buildTransitive\\WebApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

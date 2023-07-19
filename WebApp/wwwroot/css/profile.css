@@ -1,0 +1,42 @@
+@media screen and (max-width:900px) {
+
+    /*nav a:nth-of-type(4), nav a:nth-of-type(5){
+        flex-basis:50%;
+    }*/
+    #profileContainer {
+        font-size: 1.25em !important;
+    }
+}
+
+#profileContainer h2{
+    color:white;
+}
+#userClasses .classImg {
+    min-width: 5em;
+    /*width: fit-content;*/
+
+    flex-basis:20%;
+    height:7em;
+    display: inline-block;
+    font-size: 1.5em;
+    background-repeat: no-repeat;
+    background-size:calc("contain"+1em);
+    background-position: center;
+    background-position-y: 1.5em;
+    text-align: center;
+
+    white-space:normal;
+    /*object-fit:contain;*/
+}
+#userClasses{
+    height:fit-content;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:left;
+    gap:5%;
+}
+#profileBlock{
+    font-size:1.5em;
+    width:80%;
+    margin:auto;
+}
