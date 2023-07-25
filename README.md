@@ -1,0 +1,2 @@
+A web application whose functionality is centered around a playable game based on an html5 canvas, written in pure js. Data is sent or received over an asp.net web api to a (local) mysql db (currently the only thing the api does)
+The project includes a simple account system as the only data that's being saved is always related to a registered user. The game features a scoring system - per-game scores are saved to a user's account data and/or to a leaderboard. Scores can also act as a currency to use in the game.
