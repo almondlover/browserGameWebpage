@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vHbPt2fUH5B+WLXDRwVBjUlnBHmM2Jys3VLMbTgjOQ/6B+naCFB7pdr0amnhtRWf2HVKknf65DKMXxNUBFjjdw==",
+  "dgSpecHash": "DQ1sPVVjxIqP1WzePZcKVd+xsm1RWZNei1Pkc9AEobv9yUwbChWnoFIFgxlN0Xkz9R8u/Xv1MYMCNHAEPA7J4A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\WebApp.csproj",
+  "projectFilePath": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\WebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Toni Kostov\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.9\\microsoft.aspnet.webapi.client.5.2.9.nupkg.sha512",
     "C:\\Users\\Toni Kostov\\.nuget\\packages\\microsoft.aspnet.webapi.core\\5.2.9\\microsoft.aspnet.webapi.core.5.2.9.nupkg.sha512",

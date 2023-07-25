@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\WebApp.csproj": {}
+    "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\WebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\WebApp.csproj": {
+    "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\WebApp.csproj",
+        "projectUniqueName": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\WebApp.csproj",
         "projectName": "WebApp",
-        "projectPath": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\WebApp.csproj",
+        "projectPath": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\WebApp.csproj",
         "packagesPath": "C:\\Users\\Toni Kostov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\obj\\",
+        "outputPath": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Toni Kostov\\AppData\\Roaming\\NuGet\\NuGet.Config",

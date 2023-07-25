@@ -55,14 +55,8 @@ userBalance.id = "userBalance";
 //classDisplay.append(classInfo, userBalance);
 
 //imgs
-const normalImg = new Image();
-normalImg.src = "/imgs/assets/NormalClass.png";
-const tankImg = new Image();
-tankImg.src = "/imgs/assets/TankClass.png";
-const gcImg = new Image();
-gcImg.src = "/imgs/assets/GlassCannonClass.png";
-const thiefImg = new Image();
-thiefImg.src = "/imgs/assets/ThiefClass.png";
+const startingClassImg = new Image();
+
 
 const regEnemyImg = new Image();
 regEnemyImg.src = "/imgs/assets/baseEnemy.png";
@@ -163,8 +157,8 @@ class Game
         gameField.append(playerStatusBar);
         gameField.removeChild(classDisplay);
         //trq se resetne player
-
-        this.player = new Player(sectorPosition.centerpos.x, sectorPosition.centerpos.y, 100, 169, startingClasses[this.selectedClassIdx][0].maxHealth, startingClasses[this.selectedClassIdx][0].damage, startingClasses[this.selectedClassIdx][0].proposedVelocity, startingClasses[this.selectedClassIdx][2]);
+        startingClassImg.src = `/imgs/assets/${startingClasses[this.selectedClassIdx][1]}Class.png`;
+        this.player = new Player(sectorPosition.centerpos.x, sectorPosition.centerpos.y, 100, 169, startingClasses[this.selectedClassIdx][0].maxHealth, startingClasses[this.selectedClassIdx][0].damage, startingClasses[this.selectedClassIdx][0].proposedVelocity, startingClassImg);
         
         this.currentRun=new GameRun(this.player, 5, 3);
         
@@ -250,15 +244,15 @@ class Game
         if (userdata !== null) {
             let spendable = userdata.experience;
             for (const classid of userdata.unlockedclasses) {
-                spendable -= startingClasses[classid - 1][3];
+                spendable -= startingClasses[classid - 1][2];
             }
 
             classInfo.innerText = "";
             userBalance.innerText = "";
-            if (!userdata.unlockedclasses.includes(this.selectedClassIdx + 1) && startingClasses[this.selectedClassIdx][3] !== 0)
+            if (!userdata.unlockedclasses.includes(this.selectedClassIdx + 1) && startingClasses[this.selectedClassIdx][2] !== 0)
             {
                 userBalance.innerText = `Balance: ${spendable}`;
-                classInfo.innerText = startingClasses[this.selectedClassIdx][3];
+                classInfo.innerText = startingClasses[this.selectedClassIdx][2];
             }
             classDisplay.append(classInfo, userBalance);
         }
@@ -1333,7 +1327,7 @@ const basePlayer={
 
 };
 const startingClasses=[
-    [basePlayer, "Normal", normalImg, 0],
+    [basePlayer, "Normal", 0],
     [{
         posx:sectorPosition.centerpos.x,
         posy:sectorPosition.centerpos.y,
@@ -1343,7 +1337,7 @@ const startingClasses=[
         damage:10,
         proposedVelocity:5
 
-    }, "Tank", tankImg, 1000],
+    }, "Tank", 1000],
     [{
         posx:sectorPosition.centerpos.x,
         posy:sectorPosition.centerpos.y,
@@ -1353,7 +1347,7 @@ const startingClasses=[
         damage:20,
         proposedVelocity:10
     
-    }, "GlassCannon", gcImg, 10000],
+    }, "GlassCannon", 10000],
     [{
         posx:sectorPosition.centerpos.x,
         posy:sectorPosition.centerpos.y,
@@ -1363,7 +1357,7 @@ const startingClasses=[
         damage:5,
         proposedVelocity:15
     
-    }, "Thief", thiefImg, 20000]
+    }, "Thief", 20000]
 ]
 //mnoje bi da stane 2-meren sas string za display?
 //mai trqshe vs u da e otdelen klas i klas za kolekciqta da gi razpredeli
@@ -1379,7 +1373,8 @@ const upgradeTypes=[
 
 const testUpgrade=new PlayerUpgrade(0, 0, 0, 0, 50);
 
-let player=new Player(sectorPosition.centerpos.x, sectorPosition.centerpos.y, 100, 169, 100, 10, 10, normalImg);
+startingClassImg.scr = "/assets/imgs/NormalClass.png";
+let player = new Player(sectorPosition.centerpos.x, sectorPosition.centerpos.y, 100, 169, 100, 10, 10, startingClassImg);
 let playerHPBar=new HealthBar(100, canvas.height-100, 400, 50);
 
 let game=new Game(player,ctx);

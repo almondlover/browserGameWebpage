@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Enr2RKsTMPisEVTxsw8JE7Z3vfb6Qtvmn+BQn0i2Zkk=",
+  "Hash": "hSHSoZCeV/GQIvcpj9z0qAfS2kA3xXtMG2Z/8cybKdo=",
   "Source": "WebApp",
   "BasePath": "_content/WebApp",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "WebApp\\wwwroot",
       "Source": "WebApp",
-      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\account.html",
+      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\account.html",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "account.html",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\account.html"
     },
     {
-      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\css\\canvas.css",
+      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\css\\canvas.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "css/canvas.css",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\css\\canvas.css"
     },
     {
-      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\css\\form.css",
+      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\css\\form.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "css/form.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\form.css"
     },
     {
-      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\css\\instructions.css",
+      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\css\\instructions.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "css/instructions.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\instructions.css"
     },
     {
-      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\css\\profile.css",
+      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\css\\profile.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "css/profile.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\profile.css"
     },
     {
-      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\css\\scoreboard.css",
+      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\css\\scoreboard.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "css/scoreboard.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scoreboard.css"
     },
     {
-      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\css\\style.css",
+      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\css\\style.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\game.html",
+      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\game.html",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "game.html",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\game.html"
     },
     {
-      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\imgs\\assets\\arenapic.jpg",
+      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\imgs\\assets\\arenapic.jpg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "imgs/assets/arenapic.jpg",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\assets\\arenapic.jpg"
     },
     {
-      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\imgs\\assets\\background.jpg",
+      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\imgs\\assets\\background.jpg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "imgs/assets/background.jpg",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\assets\\background.jpg"
     },
     {
-      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\imgs\\assets\\baseEnemy.png",
+      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\imgs\\assets\\baseEnemy.png",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "imgs/assets/baseEnemy.png",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\assets\\baseEnemy.png"
     },
     {
-      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\imgs\\assets\\bruteEnemy.png",
+      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\imgs\\assets\\bruteEnemy.png",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "imgs/assets/bruteEnemy.png",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\assets\\bruteEnemy.png"
     },
     {
-      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\imgs\\assets\\cloudAtk.png",
+      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\imgs\\assets\\cloudAtk.png",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "imgs/assets/cloudAtk.png",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\assets\\cloudAtk.png"
     },
     {
-      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\imgs\\assets\\GlassCannonClass.png",
+      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\imgs\\assets\\GlassCannonClass.png",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "imgs/assets/GlassCannonClass.png",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\assets\\GlassCannonClass.png"
     },
     {
-      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\imgs\\assets\\NormalClass.png",
+      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\imgs\\assets\\NormalClass.png",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "imgs/assets/NormalClass.png",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\assets\\NormalClass.png"
     },
     {
-      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\imgs\\assets\\normalEnemyAtk.png",
+      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\imgs\\assets\\normalEnemyAtk.png",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "imgs/assets/normalEnemyAtk.png",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\assets\\normalEnemyAtk.png"
     },
     {
-      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\imgs\\assets\\swordNormal.png",
+      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\imgs\\assets\\swordNormal.png",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "imgs/assets/swordNormal.png",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\assets\\swordNormal.png"
     },
     {
-      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\imgs\\assets\\TankClass.png",
+      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\imgs\\assets\\TankClass.png",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "imgs/assets/TankClass.png",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\assets\\TankClass.png"
     },
     {
-      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\imgs\\assets\\ThiefClass.png",
+      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\imgs\\assets\\ThiefClass.png",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "imgs/assets/ThiefClass.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\assets\\ThiefClass.png"
     },
     {
-      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\imgs\\bgnuts.webp",
+      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\imgs\\bgnuts.webp",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "imgs/bgnuts.webp",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\bgnuts.webp"
     },
     {
-      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\imgs\\graph.jpg",
+      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\imgs\\graph.jpg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "imgs/graph.jpg",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\graph.jpg"
     },
     {
-      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\imgs\\hazelnuts.jpg",
+      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\imgs\\hazelnuts.jpg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "imgs/hazelnuts.jpg",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\hazelnuts.jpg"
     },
     {
-      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\imgs\\mcraftstevebuff.jpg",
+      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\imgs\\mcraftstevebuff.jpg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "imgs/mcraftstevebuff.jpg",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\mcraftstevebuff.jpg"
     },
     {
-      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\imgs\\mogusimg.jpg",
+      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\imgs\\mogusimg.jpg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "imgs/mogusimg.jpg",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\mogusimg.jpg"
     },
     {
-      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\imgs\\mygamescreenshot.png",
+      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\imgs\\mygamescreenshot.png",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "imgs/mygamescreenshot.png",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\mygamescreenshot.png"
     },
     {
-      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\imgs\\PeanutButter.jpg",
+      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\imgs\\PeanutButter.jpg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "imgs/PeanutButter.jpg",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\PeanutButter.jpg"
     },
     {
-      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\imgs\\somegameimage.jpg",
+      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\imgs\\somegameimage.jpg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "imgs/somegameimage.jpg",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\somegameimage.jpg"
     },
     {
-      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\imgs\\somegames.jpg",
+      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\imgs\\somegames.jpg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "imgs/somegames.jpg",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\somegames.jpg"
     },
     {
-      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\index.html",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\instructions.html",
+      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\instructions.html",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "instructions.html",
       "AssetKind": "All",
@@ -527,27 +527,10 @@
       "OriginalItemSpec": "wwwroot\\instructions.html"
     },
     {
-      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\js\\gallery.js",
+      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\js\\game.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\",
-      "BasePath": "_content/WebApp",
-      "RelativePath": "js/gallery.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\gallery.js"
-    },
-    {
-      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\js\\game.js",
-      "SourceId": "WebApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "js/game.js",
       "AssetKind": "All",
@@ -561,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\js\\game.js"
     },
     {
-      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\js\\loadElements.js",
+      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\js\\loadElements.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "js/loadElements.js",
       "AssetKind": "All",
@@ -578,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\js\\loadElements.js"
     },
     {
-      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\js\\loadinstructions.js",
+      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\js\\loadinstructions.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "js/loadinstructions.js",
       "AssetKind": "All",
@@ -595,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\js\\loadinstructions.js"
     },
     {
-      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\js\\loadprofile.js",
+      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\js\\loadprofile.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "js/loadprofile.js",
       "AssetKind": "All",
@@ -612,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\js\\loadprofile.js"
     },
     {
-      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\js\\loadscoreboard.js",
+      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\js\\loadscoreboard.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "js/loadscoreboard.js",
       "AssetKind": "All",
@@ -629,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\js\\loadscoreboard.js"
     },
     {
-      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\js\\login.js",
+      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\js\\login.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "js/login.js",
       "AssetKind": "All",
@@ -646,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\js\\login.js"
     },
     {
-      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\js\\slideshow.js",
+      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\js\\slideshow.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "js/slideshow.js",
       "AssetKind": "All",
@@ -663,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\js\\slideshow.js"
     },
     {
-      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\profile.html",
+      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\profile.html",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "profile.html",
       "AssetKind": "All",
@@ -680,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\profile.html"
     },
     {
-      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\scoreboard.html",
+      "Identity": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\scoreboard.html",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Toni Kostov\\source\\repos\\WebApp\\browserGameWebpage\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "scoreboard.html",
       "AssetKind": "All",

@@ -17,6 +17,7 @@
     <Content Remove="wwwroot\imgs\frogggg.jpg" />
     <Content Remove="wwwroot\imgs\morbingtuime.jpg" />
     <Content Remove="wwwroot\imgs\shrek-screaming.jpg" />
+    <Content Remove="wwwroot\js\gallery.js" />
   </ItemGroup>
 
   <ItemGroup>
