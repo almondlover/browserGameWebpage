@@ -272,8 +272,10 @@ img.block, #gallery{
     display:flex;
     align-items: center;
     justify-content: center;
+
+    gap: 1vw;
 }
-#gallery a{
+#gallery a.arrowButton{
     /* font-size: 10em;
     text-shadow: 0 0 0.1em rgb(255, 255, 255); */
     overflow: hidden;
@@ -291,53 +293,55 @@ img.block, #gallery{
     
     box-shadow:0em 0em 0.5em;
 }
-#gallery a:hover {
+#gallery a.arrowButton:hover {
     background-color: rgb(189, 189, 189, 0.75);
     
 }
-#gallery a:focus {
+#gallery a.arrowButton:focus {
     
 }
-#gallery a:active{
+#gallery a.arrowButton:active{
     width:3vw;
     height:3vw;
     margin:0.5vw;
 }
-#gallery a:first-of-type{
+#gallery a.arrowButton:first-of-type {
     left: 1vw;
 }
-#gallery a:last-of-type{
+#gallery a.arrowButton:last-of-type {
     right: 1vw;
 }
-#gallery a div{
+#gallery a.arrowButton div {
     height: 50%;
     width: 50%;
     border: 0 solid black;
     transform-origin: center;
-    transform: rotate(45deg); 
-
-
+    transform: rotate(45deg);
     box-sizing: border-box;
     position: relative;
     inset: 0;
-    
-    
 }
-#gallery a:last-of-type div{
-    
-    
+#gallery a.arrowButton:last-of-type div {
     border-right-width: 0.5vw;
     border-top-width: 0.5vw;
-    
 }
-#gallery a:first-of-type div{
-
-    
+#gallery a.arrowButton:first-of-type div {
     border-left-width: 0.5vw;
     border-bottom-width: 0.5vw;
-    
 }
+#gallery a.slideButton {
+    height: 1vw;
+    width: 1vw;
+    border-radius: 0.5vw;
+    background-color: white;
 
+    box-shadow: 0em 0em 0.5em;
+    box-sizing:border-box;
+}
+#currentButton {
+    background-color: #a87231!important;
+    border: 0.1vw solid white;
+}
 #gallery img{
     /* object-fit: cover; */
     display:unset;

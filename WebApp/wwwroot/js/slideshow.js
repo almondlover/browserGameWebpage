@@ -6,18 +6,31 @@ imgs=Array.from(imgs);
 let current=0;
 let step;
 let tout;
-function slide(dir)
+function slide(dir, snum)
 {
-    step=(-1+2*(+dir));
+    step=(-1+2*(+dir))*snum;
     for (const element of imgs)
-        element.style.right=((imgs.length+current+step)%imgs.length)*100+'%';
+    {
+        
+        element.style.right = ((imgs.length + current + step) % imgs.length) * 100 + '%';
+    }
+    
 }
 
-const arrows=gallery.querySelectorAll("a");
+const arrows = gallery.querySelectorAll("a");
+const dots = Array.apply(null, Array(imgs.length)).map(el => { const temp = document.createElement("a"); temp.classList.add("slideButton"); return temp; });
+const dotContainer = gallery.querySelector("div");
+for (const element of dots)
+{
+    element.addEventListener("click", () => { clearTimeout(tout); slide(false, current - dots.indexOf(element)) });
 
-arrows[0].addEventListener("click", ()=>{clearTimeout(tout); slide(false)});
-arrows[1].addEventListener("click", ()=>{clearTimeout(tout); slide(true)});
-imgs[imgs.length-1].addEventListener("transitionend", ()=>{current=(imgs.length+current+step)%imgs.length; tout=setTimeout(()=>slide(true),5000);});
+    dotContainer.append(element);
+}
+
+arrows[0].addEventListener("click", ()=>{clearTimeout(tout); slide(false, 1)});
+arrows[1].addEventListener("click", () => { clearTimeout(tout); slide(true, 1)});
+imgs[imgs.length - 1].addEventListener("transitionend", () => { dots[current].id = ""; current=(imgs.length+current+step)%imgs.length; dots[current].id = "currentButton";tout=setTimeout(()=>slide(true, 1),5000);});
 
 //imgs[imgs.length-1].addEventListener("transitionstart", ()=>next=(imgs.length+next+step)%imgs.length);
-tout=setTimeout(()=>slide(true),5000);
+dots[0].id = "currentButton";
+tout = setTimeout(() => slide(true, 1), 5000);
