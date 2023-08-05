@@ -23,9 +23,10 @@
     }
     
 }
-@media screen and (min-width:600px) {
+@media screen and (min-width:600px) and (max-width:900px){
 
     #sideMenu {
+        
         top: 2.5em !important;
     }
 }
@@ -58,7 +59,7 @@
     flex: 1;
     border-left: solid white;
     position: sticky;
-    top: 6em;
+    top: 3em;
     box-shadow: 0 0.5em 0.5em #71410eff;
 }
 #sideMenu a{

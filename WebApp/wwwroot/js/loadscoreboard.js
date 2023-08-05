@@ -1,23 +1,3 @@
-// fetch("scoreboard.json")
-// .then((response)=>{})
-
-
-//async function load()
-//{
-//    const response = await fetch(new Request("scoreboard.json"));
-//    const scores = await response.json();
-
-
-//    bestScores=Array.from(scores);
-    
-
-//    displayScoreBoard(bestScores);
-
-//    console.log(scores);
-//    console.log(bestScores);
-
-    
-//}
 let bestScores;
 //!!!
 const cover=document.createElement("div");
